@@ -1,0 +1,1029 @@
+{
+  "report": [
+    {
+      "viewport": 375,
+      "width": 375,
+      "scrollWidth": 375,
+      "height": 3445,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/movement-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-clinica",
+          "ok": true
+        },
+        {
+          "case": "navigation-atencion",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 41.609375
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#atencion",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#atencion",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "mailto:hola@avancli.com",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Avancli%2C%20Calle%20San%20Juan%20Bautista%2012%2C%2011600%20Ubrique%2C%20C%C3%A1diz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "La clínica",
+          "height": 44
+        },
+        {
+          "text": "La atención",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "Llamar a la clínica",
+          "height": 49
+        },
+        {
+          "text": "",
+          "height": 45
+        },
+        {
+          "text": "+34 655 08 60 07",
+          "height": 58
+        },
+        {
+          "text": "Cómo llegar",
+          "height": 49
+        },
+        {
+          "text": "",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 3457,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/movement-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-clinica",
+          "ok": true
+        },
+        {
+          "case": "navigation-atencion",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 36.46875
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#atencion",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#atencion",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "mailto:hola@avancli.com",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Avancli%2C%20Calle%20San%20Juan%20Bautista%2012%2C%2011600%20Ubrique%2C%20C%C3%A1diz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "La clínica",
+          "height": 44
+        },
+        {
+          "text": "La atención",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "Llamar a la clínica",
+          "height": 49
+        },
+        {
+          "text": "",
+          "height": 45
+        },
+        {
+          "text": "+34 655 08 60 07",
+          "height": 58
+        },
+        {
+          "text": "Cómo llegar",
+          "height": 49
+        },
+        {
+          "text": "",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 768,
+      "width": 768,
+      "scrollWidth": 753,
+      "height": 3223,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/movement-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-clinica",
+          "ok": true
+        },
+        {
+          "case": "navigation-atencion",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 41.765625
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#atencion",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#atencion",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "mailto:hola@avancli.com",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Avancli%2C%20Calle%20San%20Juan%20Bautista%2012%2C%2011600%20Ubrique%2C%20C%C3%A1diz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "La clínica",
+          "height": 44
+        },
+        {
+          "text": "La atención",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "Llamar a la clínica",
+          "height": 54
+        },
+        {
+          "text": "",
+          "height": 52
+        },
+        {
+          "text": "+34 655 08 60 07",
+          "height": 58
+        },
+        {
+          "text": "Cómo llegar",
+          "height": 54
+        },
+        {
+          "text": "",
+          "height": 45
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1425,
+      "height": 3895,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/movement-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-clinica",
+          "ok": true
+        },
+        {
+          "case": "navigation-atencion",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 24.046875
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#atencion",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#atencion",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "mailto:hola@avancli.com",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Avancli%2C%20Calle%20San%20Juan%20Bautista%2012%2C%2011600%20Ubrique%2C%20C%C3%A1diz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "La clínica",
+          "height": 44
+        },
+        {
+          "text": "La atención",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "Llamar a la clínica",
+          "height": 54
+        },
+        {
+          "text": "",
+          "height": 52
+        },
+        {
+          "text": "+34 655 08 60 07",
+          "height": 64.390625
+        },
+        {
+          "text": "Cómo llegar",
+          "height": 54
+        },
+        {
+          "text": "",
+          "height": 45
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 1920,
+      "width": 1920,
+      "scrollWidth": 1905,
+      "height": 4102,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/movement-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-clinica",
+          "ok": true
+        },
+        {
+          "case": "navigation-atencion",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 24.421875
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#atencion",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#clinica",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#atencion",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#clinica",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34655086007",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "mailto:hola@avancli.com",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Avancli%2C%20Calle%20San%20Juan%20Bautista%2012%2C%2011600%20Ubrique%2C%20C%C3%A1diz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://avancli.com/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "La clínica",
+          "height": 44
+        },
+        {
+          "text": "La atención",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "Llamar a la clínica",
+          "height": 54
+        },
+        {
+          "text": "",
+          "height": 52
+        },
+        {
+          "text": "+34 655 08 60 07",
+          "height": 64.390625
+        },
+        {
+          "text": "Cómo llegar",
+          "height": 54
+        },
+        {
+          "text": "",
+          "height": 45
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "reducedMotion": {
+    "scroll": "auto",
+    "animations": 0,
+    "revealVisible": true
+  },
+  "noJs": {
+    "h1": 1,
+    "revealVisible": true,
+    "anchors": true
+  }
+}

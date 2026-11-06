@@ -1,0 +1,15 @@
+{
+  "mode": "builtin image_gen",
+  "images": [
+    {
+      "asset": "assets/images/movement-1536.jpg",
+      "original": "assets/images/originals/movement.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: large landscape editorial photograph for a physiotherapy website, creative concept Movement in focus. Primary request: natural everyday human movement, a close low camera view of the lower legs and bare feet of one adult in loose dark petrol blue trousers taking a gentle normal step on a light matte floor in a contemporary quiet physiotherapy-like environment, no visible face or upper torso. One foot grounded, one heel beginning to rise naturally, anatomically correct toes and limbs. Background softly blurred off-white plaster wall, subtle daylight, uncluttered professional atmosphere, no gym or workout. Composition wide landscape 3:2 with feet in the middle third, ample architectural negative space and natural shadows. Contemporary premium editorial photography, realistic human skin and textile, cool luminous white #F7F9F8 and deep petrol #153D46, restrained contrast, fine texture, authentic candid feel. No text, no logos, no watermark, no sport equipment, no medical devices, no clinical claims. This is illustrative generated photography, not Avancli's actual premises or patient; it will be labeled as illustrative."
+    },
+    {
+      "asset": "assets/images/care-1024.jpg",
+      "original": "assets/images/originals/care.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: portrait editorial photograph-style image for a physiotherapy website, movement in focus. Primary request: close-up of two adult hands gently supporting another adult's forearm during a quiet professional physiotherapy assessment, very natural neutral hand positioning and anatomically correct hands, fingers and forearm, no manipulation or dramatic stretch. Crop includes only forearms and a little of plain off-white cotton sleeve and dark petrol blue sleeve, no faces and no identifying body features. Simple bright clinical-neutral room, soft out-of-focus background, natural window light, realistic skin texture, respectful matter-of-fact candid editorial photography, contemporary cool white and muted petrol palette, no gym appearance, no exercise equipment. Composition portrait 2:3, strong diagonal forearm line and generous breathing space around hands. No logos, no writing, no watermark, no medical device, no clipboard, no claims. This image is generated illustration and will be labeled as not showing Avancli staff, patients or premises. Natural understated professional editorial quality, not artificial shiny stock advertising."
+    }
+  ]
+}
